@@ -1,0 +1,7 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/books\",\"status\":\"201\",\"responseTime\":\":\"}","timestamp":"2024-08-09T10:59:06.592Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/books\",\"status\":\"201\",\"responseTime\":\":\"}","timestamp":"2024-08-09T11:06:51.113Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/books\",\"status\":\"201\",\"responseTime\":\":\"}","timestamp":"2024-08-09T11:08:25.298Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/books\",\"status\":\"201\",\"responseTime\":\":\"}","timestamp":"2024-08-09T11:09:31.992Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":{"method":"POST","responseTime":":","status":"201","url":"/books"},"timestamp":"2024-08-09T11:09:54.699Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":{"method":"POST","responseTime":":","status":"201","url":"/books"},"timestamp":"2024-08-09T11:10:47.700Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":{"method":"POST","responseTime":"2.694","status":"201","url":"/books"},"timestamp":"2024-08-09T11:12:13.624Z"}
